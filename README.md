@@ -17,4 +17,4 @@ Designed and implemented an ATM interface simulation in Java:
 
 Incorporated functionalities such as balance inquiry, cash withdrawal, and deposit.
 Ensured secure handling of user data and transactions through robust coding practices.
-Each of these tasks allowed me to develop and hone my skills in Java programming, user interface design, and problem-solving. I am proud of the progress and contributions I made during this period. Should you need any further information or verification, please do not hesitate to ask.
+Each of these tasks allowed me to develop and hone my skills in Java programming, user interface design, and problem-solving. I am proud of the progress and contributions I made during this period. 
